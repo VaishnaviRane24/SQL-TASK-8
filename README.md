@@ -91,7 +91,5 @@ FROM Employees;
 ## Files Included
 
 * `SQL-TASK-8.sql` – SQL script with table creation, procedure, function, and test queries.
-* 
+* `README.md`: This file, explaining the task and approach
 ---
-
-Would you like me to also include a **sample output screenshot section** (showing before & after salary update and bonus calculation) in the README to make it more professional for GitHub submission?
